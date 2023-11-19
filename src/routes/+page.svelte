@@ -97,7 +97,10 @@
 
 <svelte:head>
   <title>ToDo by Julian Rocha</title>
-  <meta name="description" content="My ToDo List" />
+  <meta
+    name="description"
+    content="A user-friendly web application designed to help you stay organized and manage your tasks effectively."
+  />
 </svelte:head>
 
 <main class="mx-auto my-16 w-full max-w-sm px-4 sm:px-0 md:max-w-md">
